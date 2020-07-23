@@ -1,0 +1,37 @@
+continent = {
+	name = asia
+	political = {
+		communism = {
+				male = { 
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_4.dds"
+			}
+		}
+		democratic = {
+				male = { 
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_4.dds"
+			}
+		}
+		fascism = {
+				male = { 
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_4.dds"
+			}
+		}
+		neutrality = {
+				male = { 
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_1.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_2.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_3.dds"
+					"gfx/leaders/Asia/asiaaniversary_Portrait_Asia_Generic_4.dds"
+			}
+		}
+	}	
+}

@@ -1,0 +1,11 @@
+spriteTypes = {	
+	
+	
+	##### CHINA #####
+	
+	spriteType = {
+		name = "GFX_portrait_chi_wang_jingwei"
+		texturefile = "gfx/leaders/CHI/portrait_chi_wang_jingwei.dds"
+	}
+}
+
